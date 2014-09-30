@@ -7,6 +7,12 @@
   },
   {
     "remote": "cm",
+    "repository": "android_device_samsung_jf-common",
+    "target_path": "device/samsung/jf-common",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "cm",
     "repository": "android_device_samsung_msm8960-common",
     "target_path": "device/samsung/msm8960-common",
     "revision": "cm-11.0"
