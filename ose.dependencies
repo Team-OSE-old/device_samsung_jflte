@@ -5,9 +5,9 @@
     "branch": "cm-11.0"
   },
   {
-    "repository": "CyanogenMod/android_device_samsung_jf-common",
+    "repository": "OSE-JFLTE/device_samsung_jf-common",
     "target_path": "device/samsung/jf-common",
-    "branch": "cm-11.0"
+    "branch": "ose"
   },
   {
     "repository": "CyanogenMod/android_device_samsung_msm8960-common",
