@@ -1,8 +1,8 @@
 [
   {
-    "repository": "CyanogenMod/android_device_samsung_qcom-common",
+    "repository": "OSE-JFLTE/android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
-    "branch": "cm-11.0"
+    "branch": "ose"
   },
   {
     "repository": "OSE-JFLTE/device_samsung_jf-common",
